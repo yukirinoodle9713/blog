@@ -1,0 +1,10 @@
+.profile-text {
+    padding: 0px 50px;
+}
+.profile img {
+    width: 100px;
+    height: 100px;
+}
+.profile {
+    display: flex;
+}
